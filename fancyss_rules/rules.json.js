@@ -1,16 +1,16 @@
 {
   "gfwlist": {
     "name": "gfwlist.conf",
-    "date": "2024-04-19 03:46",
-    "md5": "1cf50ecd547d98d451a3f1cf091cd439",
-    "count": "4896"
+    "date": "2024-04-23 03:46",
+    "md5": "c73e5e7dee78cdeaff1773ee1fb4f894",
+    "count": "4897"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2024-04-22 03:46",
-    "md5": "a1dc37bcea4c70d504bd50a4535fe881",
-    "count": "3543",
-    "count_ip": "283130706",
+    "date": "2024-04-23 03:46",
+    "md5": "12a459e84270a2732adc36140d00ed23",
+    "count": "3542",
+    "count_ip": "283129172",
     "source": "misakaio",
     "url": "https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt"
   },
@@ -34,9 +34,9 @@
   },
   "cdn_china": {
     "name": "cdn.txt",
-    "date": "2024-04-21 03:46",
-    "md5": "9d6ce8e142be58f58f38cc4def2a2d0c",
-    "count": "72956"
+    "date": "2024-04-23 03:46",
+    "md5": "210d9eb86f45c4ca674028e885a28e77",
+    "count": "72941"
   },
   "apple_china": {
     "name": "apple_china.txt",
